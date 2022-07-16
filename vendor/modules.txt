@@ -1,0 +1,18 @@
+# github.com/gocql/gocql v0.0.0-20210817081954-bc256bbb90de
+## explicit
+github.com/gocql/gocql
+github.com/gocql/gocql/internal/lru
+github.com/gocql/gocql/internal/murmur
+github.com/gocql/gocql/internal/streams
+# github.com/golang/snappy v0.0.3
+github.com/golang/snappy
+# github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed
+github.com/hailocab/go-hostpool
+# github.com/scylladb/scylla-cdc-go v1.0.0
+## explicit
+github.com/scylladb/scylla-cdc-go
+# golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
+golang.org/x/sync/errgroup
+golang.org/x/sync/semaphore
+# gopkg.in/inf.v0 v0.9.1
+gopkg.in/inf.v0
